@@ -62,6 +62,9 @@ $(".send").click(function(){
 	$(".send").attr("href",hrefValue+"?subject="+emailSubject+"&body="+emailBody);
 	
 	
+	$(".subject").val() = "";
+	$(".body").val() = "";
+	
 });
 
 
