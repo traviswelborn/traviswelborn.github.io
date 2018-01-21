@@ -22,19 +22,19 @@ $(document).ready(function(){
 		
 		$(".down-1").addClass("show-down").removeClass("hidden-down");
 		
-	},250);
+	},500);
 	
 	setTimeout(function(){
 		
 		$(".down-2").addClass("show-down").removeClass("hidden-down");
 		
-	},500);
+	},750);
 	
 	setTimeout(function(){
 		
 		$(".down-3").addClass("show-down").removeClass("hidden-down");
 		
-	},750);
+	},1000);
 	
 	
 	// SHOW/HIDE FORM
