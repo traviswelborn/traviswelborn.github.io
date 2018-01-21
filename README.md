@@ -11,7 +11,7 @@ Website designed and developed in Safari and Chrome. <a href="#" title="Open San
 
 ### Arlington Humane Society
 
-One of my graduating term projects was to redesign the <a href="http://arlingtonhumanesociety.org" title="Arlington Humane Society">Arlington Humane Society</a> website and branding. It is hosted in this repository as part of my portfolio. The following photos were used in the redesign:
+One of my graduating term projects was to redesign the <a href="http://arlingtonhumanesociety.org" title="Arlington Humane Society">Arlington Humane Society</a> website and branding. It is hosted in this repository as part of my portfolio. The following photos were used in the redesign&hellip;
 
 <ul>
 <li><a href="http://commons.wikimedia.org/wiki/File:Golden_tabby_and_white_kitten_n03.jpg" title="Golden_tabby_and_white_kitten_n03">Golden_tabby_and_white_kitten_n03</a> by Marie-Lan Nguyen</li>
