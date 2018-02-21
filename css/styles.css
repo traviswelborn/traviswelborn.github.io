@@ -33,7 +33,7 @@ body{
 /* FONT STYLES */
 
 h1,h2{
-font-family:"Open Sans","Helvetica Neue",sans-serif;
+font-family:"Open Sans",sans-serif;
 }
 h1{
 line-height:2.2rem;
@@ -44,7 +44,7 @@ text-transform:uppercase;
 font-size:1.45rem;
 }
 p,li,a{
-font-family:Calibri,"Helvetica Neue",sans-serif;
+font-family:Calibri,sans-serif;
 line-height:1.7rem;
 font-size:1.05rem;
 }
