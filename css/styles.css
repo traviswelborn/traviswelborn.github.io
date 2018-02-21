@@ -471,6 +471,23 @@ animation:sliding-gradient 120s ease infinite;
 }
 
 
+/* HEADER */
+
+header a:hover .logo{
+opacity:.85;
+}
+header nav a:hover svg{
+opacity:.85;
+}
+
+
+/* HERO */
+
+.hero p a:hover{
+opacity:.85;
+}
+
+
 /* WORK */
 
 .work ul li{
@@ -488,6 +505,9 @@ margin-top:1.65%;
 .work ul li:nth-child(3n+1){
 margin-left:0;
 }
+.work ul li a:hover img{
+opacity:.95;
+}
 
 
 /* ABOUT */
@@ -495,12 +515,21 @@ margin-left:0;
 .about{
 width:82.5%;
 }
+.about p a:hover{
+opacity:.85;
+}
+.email-image:hover{
+opacity:.85;
+}
 
 
 /* FOOTER */
 
 footer{
 width:82.5%;
+}
+footer ul li a:hover svg{
+opacity:.85;
 }
 
 
