@@ -210,16 +210,8 @@ color:#41a3d6;
 /* FONT STYLES */
 
 h1{
-line-height:2.65rem;
-font-size:1.75rem;
-}
-h2{
-text-transform:uppercase;
-font-size:1.45rem;
-}
-p,li,a{
-line-height:1.7rem;
-font-size:1.05rem;
+line-height:2.5rem;
+font-size:1.65rem;
 }
 
 
@@ -264,6 +256,9 @@ margin-right:40px;
 
 .hero{
 margin:150px auto 0;
+}
+.hero h1{
+max-width:520px;
 }
 
 
@@ -317,7 +312,7 @@ footer ul li{
 margin-right:40px;
 }
 footer ul{
-margin-top:-23px;
+margin-top:-22px;
 }
 footer ul li a{
 height:19px;
@@ -335,13 +330,6 @@ width:19px;
 
 .background{
 margin:17px 17px 0;
-}
-
-
-/* HERO */
-
-.hero h1{
-max-width:560px;
 }
 
 
@@ -379,13 +367,25 @@ width:81.2%;
 @media (min-width:760px){
 
 
+/* FONT STYLES */
+
+h2{
+text-transform:uppercase;
+font-size:1.4rem;
+}
+p{
+line-height:1.6rem;
+font-size:.95rem;
+}
+
+
 /* ABOUT */
 
 .about{
 padding:40px 0;
 }
 .about p{
-max-width:430px;
+max-width:410px;
 }
 .about p br{
 display:inline;
@@ -398,6 +398,58 @@ display:block;
 height:317px;
 float:right;
 width:29%;
+}
+
+
+}
+
+
+@media (min-width:820px){
+
+
+/* FONT STYLES */
+
+h1{
+line-height:2.7rem;
+font-size:1.8rem;
+}
+
+
+/* HERO */
+
+.hero h1{
+max-width:560px;
+}
+
+
+}
+
+
+@media (min-width:820px){
+
+
+/* FONT STYLES */
+
+h2{
+font-size:1.45rem;
+}
+p,li,a{
+line-height:1.7rem;
+font-size:1.05rem;
+}
+
+
+/* ABOUT */
+
+.about p{
+width:420px;
+}
+
+
+/* FOOTER */
+
+footer ul{
+margin-top:-23px;
 }
 
 
