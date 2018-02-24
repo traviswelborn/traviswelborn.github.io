@@ -34,7 +34,7 @@ body{
 
 h1,h2{
 font-family:"Open Sans",sans-serif;
-font-size:1.2rem;
+font-size:1.1rem;
 width:100%;
 }
 h1{
@@ -72,7 +72,7 @@ width:32px;
 fill:#fff;
 }
 header nav{
-margin-top:13px;
+margin-top:12px;
 float:right;
 }
 header nav a{
@@ -100,7 +100,7 @@ width:85%;
 color:#fff;
 }
 .hero h1:nth-child(n+2){
-margin-top:10px;
+margin-top:16px;
 }
 .hero p{
 margin-top:18px;
@@ -172,7 +172,8 @@ footer p{
 color:#444;
 }
 footer ul{
-margin-top:13px;
+margin-top:-21px;
+float:right;
 }
 footer ul li{
 display:inline-block;
@@ -200,20 +201,6 @@ display:inline;
 }
 .blue{
 color:#41a3d6;
-}
-
-
-@media (min-width:380px){
-
-
-/* FOOTER */
-
-footer ul{
-margin-top:-21px;
-float:right;
-}
-
-
 }
 
 
