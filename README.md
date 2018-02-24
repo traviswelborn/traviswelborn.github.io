@@ -22,8 +22,8 @@ One of my graduating term projects was to redesign the <a href="http://arlington
 
 ### Mansfield&rsquo;s Got Game
 
-My first project with the City of Mansfield was to create a website around their tourism brand &ldquo;Mansfield&rsquo;s Got Game&rdquo;. The brand and website have since become <a href="https://www.visitmansfieldtexas.com" title="Visit Mansfield, Texas">Visit Mansfield, Texas</a> and the original website is hosted in this repository as part of my portfolio. The City of Mansfield, Texas and Mansfield, Texas Economic Development logos belong to the <a href="https://www.mansfieldtexas.gov" title="City of Mansfield, Texas Municipal Government">City of Mansfield, Texas Municipal Government</a> and <a href="https://www.mansfield-texas.com" title="Mansfield Economic Development Corporation">Mansfield Economic Development Corporation</a> respectively.
+My first project with the City of Mansfield was to create a website around their tourism brand &ldquo;Mansfield&rsquo;s Got Game&rdquo;. The brand and website have since become <a href="https://www.visitmansfieldtexas.com" title="Visit Mansfield, Texas">Visit Mansfield, Texas</a> and the original website is hosted in this repository as part of my portfolio. The City of Mansfield, Texas and Mansfield, Texas Economic Development logos belong to <a href="https://www.mansfieldtexas.gov" title="City of Mansfield, Texas Municipal Government">City of Mansfield, Texas Municipal Government</a> and <a href="https://www.mansfield-texas.com" title="Mansfield Economic Development Corporation">Mansfield Economic Development Corporation</a> respectively.
 
-All photos used in the design belong to the <a href="https://www.mansfieldtexas.gov" title="City of Mansfield, Texas Municipal Government">City of Mansfield, Texas Municipal Government</a>.
+All photos used in the design belong to <a href="https://www.mansfieldtexas.gov" title="City of Mansfield, Texas Municipal Government">City of Mansfield, Texas Municipal Government</a>.
 
 ### <a href="http://traviswelborn.com" title="Personal Site">traviswelborn.com</a>
