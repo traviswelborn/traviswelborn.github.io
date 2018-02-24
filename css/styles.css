@@ -578,6 +578,9 @@ h1{
 line-height:3.7rem;
 font-size:2.55rem;
 }
+.hero h1:nth-child(n+2){
+margin-top:14px;
+}
 
 
 /* HEADER */
