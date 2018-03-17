@@ -160,7 +160,7 @@ color:#444;
 font-weight:700;
 color:#41a3d6;
 }
-.about p br,.email-image{
+.email-image{
 display:none;
 }
 
@@ -389,10 +389,7 @@ width:81.2%;
 margin:90px auto 0;
 }
 .about p{
-max-width:410px;
-}
-.about p br{
-display:inline;
+max-width:420px;
 }
 .email-image{
 background:url(../assets/email-bg-small.svg) center no-repeat;
