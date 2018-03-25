@@ -36,11 +36,13 @@ h1,h2{
 font-family:"Open Sans",sans-serif;
 }
 h1,h2{
+<<<<<<< HEAD
 font-size:1.25rem;
 width:100%;
 }
 h1{
 line-height:1.95rem;
+width:100%;
 }
 h2{
 text-transform:uppercase;
@@ -426,6 +428,7 @@ font-size:2rem;
 
 .hero h1{
 max-width:620px;
+<<<<<<< HEAD
 }
 
 
@@ -452,6 +455,12 @@ opacity:.85;
 }
 
 
+}
+
+
+@media (min-width:880px){
+
+
 /* WORK */
 
 .work ul li{
@@ -468,6 +477,7 @@ margin-top:1.65%;
 }
 .work ul li:nth-child(3n+1){
 margin-left:0;
+<<<<<<< HEAD
 }
 .work ul li a:hover img{
 opacity:.95;
@@ -485,6 +495,7 @@ background:url(../assets/email-bg-medium.svg) center no-repeat;
 margin-top:-278px;
 height:318px;
 width:43%;
+<<<<<<< HEAD
 }
 
 
@@ -541,10 +552,34 @@ animation:sliding-gradient 120s ease infinite;
 }
 
 
+/* HEADER */
+
+header a:hover .logo{
+opacity:.85;
+}
+header nav a:hover svg{
+opacity:.85;
+}
+
+
+/* HERO */
+
+.hero p a:hover{
+opacity:.85;
+}
+
+
 /* ABOUT */
 
 .about{
 width:82.5%;
+}
+
+
+/* WORK */
+
+.work ul li a:hover img{
+opacity:.95;
 }
 
 
@@ -644,4 +679,5 @@ max-width:960px;
 
 
 /* BLUE: #41a3d6 */
+
 
