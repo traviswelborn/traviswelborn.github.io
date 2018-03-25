@@ -3,8 +3,13 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="80px" height="40px" viewBox="0 0 80 40" enable-background="new 0 0 80 40" xml:space="preserve">
-<ellipse fill="#F58221" cx="19.973" cy="20" rx="18.973" ry="19"/>
-<polygon fill="#FFFFFF" points="32.455,15.826 18.701,16.494 20.375,10 7.491,20 20.375,30 18.701,23.507 32.455,24.173 "/>
-<ellipse fill="#F58221" cx="60.027" cy="20" rx="18.973" ry="19"/>
-<polygon fill="#FFFFFF" points="47.546,15.827 61.3,16.494 59.624,10 72.51,20 59.624,30 61.3,23.507 47.546,24.173 "/>
+<g>
+	<ellipse fill="#F58221" cx="17.5" cy="20" rx="17.5" ry="17.5"/>
+	<polygon fill="#FFFFFF" points="29.014,16.156 16.327,16.771 17.871,10.79 5.987,20 17.871,29.211 16.327,23.23 29.014,23.844 	"/>
+</g>
+<g>
+	<ellipse fill="#F58221" cx="62.5" cy="20" rx="17.5" ry="17.5"/>
+	<polygon fill="#FFFFFF" points="50.987,16.157 63.674,16.771 62.128,10.79 74.013,20 62.128,29.211 63.674,23.23 50.987,23.844 	
+		"/>
+</g>
 </svg>
