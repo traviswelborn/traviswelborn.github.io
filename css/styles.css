@@ -391,7 +391,7 @@ margin:90px auto 0;
 max-width:415px;
 }
 .email-image{
-background:url(../assets/email-bg-small.svg) center no-repeat;
+background:url(../assets/email-bg-tablet.svg) center no-repeat;
 text-indent:-9999px;
 margin-top:-238px;
 display:block;
@@ -481,7 +481,7 @@ padding:40px 0;
 width:82.25%;
 }
 .email-image{
-background:url(../assets/email-bg-medium.svg) center no-repeat;
+background:url(../assets/email-bg-small-desktop.svg) center no-repeat;
 margin-top:-278px;
 height:318px;
 width:43%;
@@ -584,7 +584,7 @@ transition:all .75s;
 /* ABOUT */
 
 .email-image{
-background:url(../assets/email-bg-large.svg) center no-repeat;
+background:url(../assets/email-bg-desktop.svg) center no-repeat;
 max-width:480px;
 width:51%;
 }
@@ -644,4 +644,5 @@ max-width:960px;
 
 
 /* BLUE: #41a3d6 */
+
 
