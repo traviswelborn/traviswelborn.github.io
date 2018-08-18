@@ -19,6 +19,9 @@ The following photos were used in the redesign:
 <li><a href="http://commons.wikimedia.org/wiki/File:Golden_tabby_and_white_kitten_n03.jpg" title="Golden_tabby_and_white_kitten_n03">Golden_tabby_and_white_kitten_n03</a> by Marie-Lan Nguyen</li>
 <li><a href="http://picjumbo.com/hugging-maltese-dog-puppy/" title="Hugging Maltese Dog Puppy">Hugging Maltese Dog Puppy</a> by Viktor Hanacek</li>
 <li><a href="http://arlingtonhumanesociety.org" title="Arlington Humane Society">All Other Images</a> by Arlington Humane Society</li>
+</ul>
+
+<a href="http://traviswelborn.com/humanesociety" title="View This Website">View This Website</a>
 
 ### USA National Homebuyers
 
@@ -30,11 +33,16 @@ The following photos were used in the design:
 <li><a href="http://magdeleine.co/photo-tanvi-malik-n-76/" title="Mountain Landscape (River)">Mountain Landscape (River)</a> by Tanvi Malik</li>
 <li><a href="http://magdeleine.co/photo-hoang-giang-hai-n-48/" title="Mountain Landscape (Fog)">Mountain Landscape (Fog)</a> by Hoang Giang Hai</li>
 <li><a href="http://magdeleine.co/photo-brandon-kendall-n-72/" title="Mountain Landscape (Lake)">Mountain Landscape (Lake)</a> by Brandon Kendall</li>
+</ul>
+
+<a href="http://traviswelborn.com/nationalhomebuyers" title="View This Website">View This Website</a>
 
 ### Mansfield&rsquo;s Got Game
 
 My first project with the City of Mansfield was to create a website around their tourism brand &ldquo;Mansfield&rsquo;s Got Game&rdquo;. The brand and website have since become <a href="https://www.visitmansfieldtexas.com" title="Visit Mansfield, Texas">Visit Mansfield, Texas</a> and the original website is hosted in this repository as part of my portfolio. The City of Mansfield, Texas and Mansfield, Texas Economic Development logos belong to <a href="https://www.mansfieldtexas.gov" title="City of Mansfield, Texas Municipal Government">City of Mansfield, Texas Municipal Government</a> and <a href="https://www.mansfield-texas.com" title="Mansfield Economic Development Corporation">Mansfield Economic Development Corporation</a> respectively.
 
 All photos used in the design belong to <a href="https://www.mansfieldtexas.gov" title="City of Mansfield, Texas Municipal Government">City of Mansfield, Texas Municipal Government</a>.
+
+<a href="http://traviswelborn.com/wevegotgame" title="View This Website">View This Website</a>
 
 ### <a href="http://traviswelborn.com" title="Personal Site">traviswelborn.com</a>
