@@ -3,10 +3,6 @@ Personal Website
 
 My personal website is hosted through <a href="https://pages.github.com" title="GitHub Pages">GitHub Pages</a>.
 
-### Colophon
-
-This website was designed and developed in Safari and Chrome. Fonts used include <a href="https://fonts.google.com/specimen/Open+Sans" title="Open Sans">Open Sans</a> for headers combined with <a href="https://en.wikipedia.org/wiki/Calibri" title="Calibri">Calibri</a> for all other content. <a href="https://about.twitter.com/press/brand-assets" title="Twitter">Twitter</a>, <a href="https://en.instagram-brand.com/assets" title="Instagram">Instagram</a> and <a href="https://www.tumblr.com/logo" title="Tumblr">Tumblr</a> icons belong to Twitter, Dribbble and Instagram respectively. All other icons were inspired by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> and <a href="http://www.freepik.com" title="Freepik">Freepik</a> found on <a href="https://www.flaticon.com" title="Flaticon">Flaticon</a>.
-
 The contents of this website, unless stated otherwise, are copyright Travis Welborn. Please don&rsquo;t steal.
 
 ### Arlington Humane Society
